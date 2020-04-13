@@ -3,8 +3,11 @@ title: Airbnb
 date: "2019-10-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "the-origins-of-social-stationery-lettering"
+slug: "Airbnb"
 category: "Android"
+tags:
+  - "Android"
+  - "Kotlin"
 description: "Airbnb is an app that allows landowners to rent out their property and allow RV owners to rent out their property."
 socialImage: "/media/image-3.jpg"
 ---

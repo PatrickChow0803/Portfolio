@@ -3,11 +3,11 @@ title: Receipt Tracker
 date: "2019-09-03T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
+slug: "Receipt-Tracker"
 category: "Android"
-# tags:
-#   - "Handwriting"
-#   - "Learning to write"
+tags:
+  - "Android"
+  - "Kotlin"
 description: "Receipt Tracker is an android app that allows registered users to create receipts to keep track of them."
 socialImage: "/media/image-2.jpg"
 ---

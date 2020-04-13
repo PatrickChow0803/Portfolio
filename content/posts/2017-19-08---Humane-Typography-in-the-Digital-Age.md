@@ -3,7 +3,7 @@ title: Mneme Cards
 date: "2019-12-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "Mneme-Cards"
 category: "Android"
 tags:
   - "Android"
@@ -21,7 +21,7 @@ socialImage: "/media/42-line-bible.jpg"
 Mneme Cards is an app used to help people remember by use of spaced repetition, similar to famous flashcard apps such as Anki and Duolingo.<br>
 Built using Native Android with Kotlin and Firebase<br>
 
-*Link To Project: [Github Link](https://github.com/Lambda-School-Labs/flashcards-android)*
+*Link To Project: [Mneme Cards Github Link](https://github.com/Lambda-School-Labs/flashcards-android)*
 
 <h2>My Responsibilties Included</h2>
 

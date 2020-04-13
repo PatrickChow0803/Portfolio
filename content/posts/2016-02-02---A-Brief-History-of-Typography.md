@@ -3,11 +3,11 @@ title: "Anywhere Fitness"
 date: "2019-08-08T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "a-brief-history-of-typography"
+slug: "Anywhere-Fitness"
 category: "Android"
-# tags:
-#   - "Linotype"
-#   - "Monotype"
+tags:
+  - "Android"
+  - "Kotlin"
 #   - "History of typography"
 #   - "Helvetica"
 description: "Anywhere Fitness is an app that allows users to sign up for fitness courses anywhere and anytime."
