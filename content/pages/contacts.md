@@ -29,4 +29,11 @@ socialImage: "/media/flutter-logo.jpg"
   <li>Android Studio</li>
   <li>MVVM</li>
 </ul>
-<br><br><br>
+<br>
+
+<h3>Programming Related</h3>
+<ul>
+  <li>Git</li>
+  <li>API</li>
+  <li>C++</li>
+</ul>
