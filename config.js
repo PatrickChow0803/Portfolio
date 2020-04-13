@@ -19,10 +19,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    // {
-    //   label: 'Contact me',
-    //   path: '/pages/contacts'
-    // }
+    {
+      label: 'Skills',
+      path: '/pages/contacts'
+    }
   ],
   author: {
     name: 'Patrick Chow',
