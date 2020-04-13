@@ -32,9 +32,9 @@ const getIcon = (name: string) => {
     case 'line':
       icon = ICONS.LINE;
       break;
-    case 'facebook':
-      icon = ICONS.FACEBOOK;
-      break;
+    // case 'facebook':
+    //   icon = ICONS.FACEBOOK;
+    //   break;
     case 'gitlab':
       icon = ICONS.GITLAB;
       break;
