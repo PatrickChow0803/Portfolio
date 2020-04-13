@@ -8,7 +8,7 @@ category: "Android"
 tags:
   - "Android"
   - "Kotlin"
-description: "Airbnb is an app that allows landowners to rent out their property and allow RV owners to rent out their property. "
+description: "Airbnb is an app that allows landowners to rent out their property and allow RV owners to rent out their property.  "
 socialImage: "/media/image-3.jpg"
 ---
 
